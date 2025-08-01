@@ -16,12 +16,12 @@ body{
 .form {
     position: relative;
     z-index: 1;
-    background: #b5e5e4;
+    background: #b8bab8;
     max-width: 360px;
     margin: 0 auto 100px;
     padding: 45px;
     text-align: center;
-    border-radius: 8px;
+    border-radius: 10px;
     box-shadow: 0 0 20px 0 rgba(20, 90, 63, 0.8), 0 5px 5px 0 rgba(35, 119, 84, 0.45);
   }
 
@@ -35,28 +35,28 @@ body{
     padding: 15px;
     box-sizing: border-box;
     font-size: 16px;
-    border-radius: 8px;
+    border-radius: 10px;
   }
   .form button {
     font-family: "Numans", sans-serif;
     text-transform: uppercase;
     outline: 0;
-    background: #00617f;
+    background: #999c99;
     width: 100%;
     border: 1;
     padding: 15px;
-    color: #b5e5e4;
+    color: #101820;
     font-size: 16px;
     -webkit-transition: all 0.3 ease;
     transition: all 0.3 ease;
     cursor: pointer;
-    border-radius: 8px;
+    border-radius: 10px;
   }
   
   
   .form button:hover,.form button:active,.form button:focus {
-    background: #b5e5e4;
-    color: #00617f;
+    background: #101820;
+    color: #b8bab8;
   }
 
   .imagem{
